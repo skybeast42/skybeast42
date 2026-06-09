@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="SkyBeast — Verifiable Agentic Engineering. Because you can't audit a vibe." width="100%">
+  <img src="banner.png" alt="Verifiable Agentic Engineering. Because you can't audit a vibe." width="100%">
 </p>
 
 ### Henning · building [BeastForge](https://github.com/skybeast42/beastforge)
@@ -51,16 +51,15 @@ It is also just useful, and it saves me time. Nothing here burns tokens for show
 #### A note on the account
 
 It is new, and BeastForge is new too, built over the last few weeks, thanks to agentic
-development. What is not new is the experience
-behind it: around twenty years in pharma, eleven of them building and running a
-pharmacometrics consultancy, in a field where reproducibility and audit trails are the
-job, not an add-on. I have maintained open-source scientific tooling for two decades
-([SBTOOLBOX2](https://www.sbtoolbox2.org), [IQM Tools](https://iqmtools.intiquan.com/),
-[IQRsbml](https://iqrsbml.intiquan.com/), [RHEM](https://rhem.intiquan.com/), the IQR
-Tools lineage, AGPLv3, still in use). My old GitHub account went with the company when I
-sold it; this is the restart. BeastForge ships here as tested, versioned releases,
-developed in a private workspace and pushed when a version is solid, so you will see
-clean releases rather than a day-by-day history.
+development. What is not new is the experience behind it: around twenty years in pharma,
+eleven of them building and running a pharmacometrics consultancy, in a field where
+reproducibility and audit trails are the job, not an add-on. I have maintained
+open-source scientific tooling for two decades ([SBTOOLBOX2](https://www.sbtoolbox2.org),
+[IQM Tools](https://iqmtools.intiquan.com/), [IQRsbml](https://iqrsbml.intiquan.com/),
+[RHEM](https://rhem.intiquan.com/), the IQR Tools lineage, AGPLv3, still in use). My old
+GitHub account went with the company when I sold it; this is the restart. BeastForge
+ships here as tested, versioned releases, developed in a private workspace and pushed
+when a version is solid, so you will see clean releases rather than a day-by-day history.
 
 ---
 
