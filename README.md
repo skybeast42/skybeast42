@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="SkyBeast — Verifiable Agentic Engineering. Because you can't audit a vibe." width="100%">
+</p>
+
 ### Henning · building [BeastForge](https://github.com/skybeast42/beastforge)
 
 > **AI agents write code fast, and forget why.**
@@ -46,7 +50,8 @@ It is also just useful, and it saves me time. Nothing here burns tokens for show
 
 #### A note on the account
 
-It is new, and BeastForge is new too, built this year. What is not new is the experience
+It is new, and BeastForge is new too, built over the last few weeks, thanks to agentic
+development. What is not new is the experience
 behind it: around twenty years in pharma, eleven of them building and running a
 pharmacometrics consultancy, in a field where reproducibility and audit trails are the
 job, not an add-on. I have maintained open-source scientific tooling for two decades
