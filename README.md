@@ -1,24 +1,18 @@
-<p align="center">
-  <img src="banner.png" alt="Verifiable Agentic Engineering. Because you can't audit a vibe." width="100%">
-</p>
-
-### Henning · building [BeastForge](https://github.com/skybeast42/beastforge)
-
 > **AI agents write code fast, and forget why.**
 > Close the chat and the plan, the decisions, the dead ends are gone.
 
-I build AI-assisted projects so the memory lives in the repo, not the chat. The plan,
-the live state, every decision, the open questions sit in version-controlled files the
-agent re-reads each session. You resume cold, every change traces back to a logged
-decision, and a human can read it, check it, and re-run it without the AI.
+I build **[BeastForge](https://github.com/skybeast42/beastforge)**, an open template
+(built for [Claude Code](https://claude.com/claude-code), for now) where a project's
+memory lives in the repo, not the chat. The plan, the live state, every decision, the
+open questions sit in version-controlled files the agent re-reads each session. You
+resume cold, every change traces back to a logged decision, and a human can read it,
+check it, and re-run it without the AI.
 
 - 🧠 **Memory in the repo** — `STATE`, `DECISIONS`, `MASTERPLAN`, open questions
 - 🔁 **Resume cold** — the agent picks up where it left off, no re-explaining
 - ✅ **You stay the auditor** — every change traces to a decision; reproduce it without the AI
 
-**BeastForge** is the open template that puts this into practice, built for
-[Claude Code](https://claude.com/claude-code) for now (the idea should generalize). You
-spawn a project (a "beast") and it keeps its own memory, decisions, and reproducible
+You spawn a project (a "beast") and it keeps its own memory, decisions, and reproducible
 trail as you work. Run more than one and they form a fleet: beasts that learn from each
 other, inheriting conventions and hard-won knowledge.
 
