@@ -1,4 +1,4 @@
-### Henning · building BeastForge
+### Henning · building [BeastForge](https://github.com/skybeast42/beastforge)
 
 > **AI agents write code fast — and forget *why*.**
 > Close the chat and the plan, the decisions, the dead ends are gone.
@@ -14,8 +14,12 @@ the open questions sit in version-controlled files the agent re-reads each sessi
 > ### Because you can't audit a vibe.
 
 **BeastForge** is the open template that puts it into practice — spawn a project
-(*a "beast"*) and it keeps its own memory, decisions, and reproducible trail as you
-work. *Public release coming.*
+(*a "beast"*) and it keeps its own memory, decisions, and reproducible trail as you work.
+
+<sub>🛠️ **BeastForge ships as versioned releases.** I develop it in a private workshop and
+push a new, tested version here when I'm happy with it — so the public repo is the clean,
+reproducible product, not a stream of work-in-progress commits. That's why you won't see a
+day-by-day commit history.</sub>
 
 ---
 
