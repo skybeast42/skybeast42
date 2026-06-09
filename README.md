@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Verifiable Agentic Engineering. Because you can't audit a vibe." width="100%">
+</p>
+
 > **AI agents write code fast, and forget why.**
 > Close the chat and the plan, the decisions, the dead ends are gone.
 
